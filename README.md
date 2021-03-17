@@ -10,7 +10,3 @@
 ## Project Name
 Description of your project.
 
-
-### Certification
-![](img/TopLearnerCertificate.png)
-
